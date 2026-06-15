@@ -1,0 +1,7 @@
+site_name: My Docs Site
+site_url: https://russjhodgson.github.io/my-mkdocs-site/
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - My First Page: my-first-page.md
